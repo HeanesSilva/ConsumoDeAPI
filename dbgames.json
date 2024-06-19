@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Joystick",
+      "descricao": "controle de videogame",
+      "foto": "joystick.jpg",
+      "preco": 284
+    },
+    {
+      "id": 2,
+      "produto": "Keyboard",
+      "descricao": "Teclado de videogame",
+      "foto": "keyboard.jpg",
+      "preco": 379
+    },
+    {
+      "id": 3,
+      "produto": "Minigame",
+      "descricao": "Pequeno videogame",
+      "foto": "minigame.jpg",
+      "preco": 623
+    }
+  ]
+}
